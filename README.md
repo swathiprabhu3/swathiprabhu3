@@ -14,5 +14,9 @@
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiprabhu3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiprabhu3&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=swathiprabhu3&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
