@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**swathiprabhu3/swathiprabhu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a tech enthusiast and a quick learner.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Java projects.
@@ -13,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: :)
 - 😄 call me: Swathi ;)
 - ⚡ Fun fact: I love travelling, exploring variety of foods, dance, write blogs and more.
--->
+
