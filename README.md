@@ -7,4 +7,6 @@
 - 📫 How to reach me: :)
 - 😄 call me: Swathi ;)
 - ⚡ Fun fact: I love travelling, exploring variety of foods, dance, write blogs and more.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swathiprabhu3)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swathiprabhu3&show_icons=true&theme=radical)
