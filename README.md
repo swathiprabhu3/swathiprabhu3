@@ -15,6 +15,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swathiprabhu3&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<a href="https://dev.to/swathiprabhu3">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Swathi's DEV Profile" height="30" width="30">
+</a>
+
 
 
 
