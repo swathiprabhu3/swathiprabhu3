@@ -1,4 +1,4 @@
-### Hi, I'm Swathi Prabhu 👋
+### Hi, I'm Swathi 👋
 - 🔭 I’m a tech enthusiast and a quick learner.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Java projects.
