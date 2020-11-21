@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Java projects.
 - 💬 Ask me about SQL, HTML, CSS, Python, AI.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/swathi-prabhu-839186181/">linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/swathi-prabhu-839186181/" target="_blank">linkedin</a>
 - 😄 call me: Swathi ;)
 - ⚡ Fun fact: I love travelling, exploring variety of foods, dance, write blogs and more.
 
