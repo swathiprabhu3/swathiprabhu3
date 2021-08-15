@@ -7,6 +7,7 @@ I'm a tech enthusiast who loves to learn about new things.
 ## ⚡ Domains:
 - Android Development
 - Web Development
+- Networking
 
 
 
