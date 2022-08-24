@@ -1,12 +1,15 @@
 
 # Hi, I'm Swathi 👋🏾 👩🏾‍💻
 
-[![Linkedin: Swathi](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathi-p30/)](https://www.linkedin.com/in/swathi-p30/)
+[![Linkedin: Swathi](https://img.shields.io/badge/-Swathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathi-p30/)](https://www.linkedin.com/in/swathi-p30/)
 ![GitHub followers](https://img.shields.io/github/followers/swathiprabhu3?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=swathiprabhu3&color=brightgreen">  
 
 
+
 ## 👨🏻‍💻 &nbsp;About Me
+
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
