@@ -6,7 +6,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=swathiprabhu3&color=brightgreen">  
 
 <div>
- <img src="https://github.com/swathiprabhu3/swathiprabhu3/blob/main/I'm%20Swathi.png" width="811" height:"202">
+ <img src="https://github.com/swathiprabhu3/swathiprabhu3/blob/main/Swathi%20Prabhu.png" width="811" height:"202">
 </div> 
 
 
