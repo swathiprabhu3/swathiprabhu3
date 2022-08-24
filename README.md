@@ -13,7 +13,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at St Joseph Engineering College, Vamanjoor.
+🎓 &nbsp;I'm currently studying Computer Science Engineering at St Joseph Engineering College, Vamanjoor.\
 💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, Python. Currently exploring DSA.
 
 
